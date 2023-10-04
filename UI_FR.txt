@@ -17,9 +17,9 @@ UI_FR = {
 
     UI_optionscreen_binding_chc_category_title =            "Craft Helper"
     UI_optionscreen_binding_chc_move_up =                   "Sélectionner la recette précédente"
-    UI_optionscreen_binding_chc_move_down =                 "Sélectionnez la recette suivante"
-    UI_optionscreen_binding_chc_move_left =                 "Sélectionnez la catégorie précédente"
-    UI_optionscreen_binding_chc_move_right =                "Sélectionnez la catégorie suivante"
+    UI_optionscreen_binding_chc_move_down =                 "Sélectionner la recette suivante"
+    UI_optionscreen_binding_chc_move_left =                 "Sélectionner la catégorie précédente"
+    UI_optionscreen_binding_chc_move_right =                "Sélectionner la catégorie suivante"
     UI_optionscreen_binding_chc_craft_one =                 "Fabriquer un"
     UI_optionscreen_binding_chc_craft_all =                 "Fabriquer tout"
     UI_optionscreen_binding_chc_favorite_recipe =           "Recette sélectionnée préférée"
@@ -27,7 +27,7 @@ UI_FR = {
     UI_optionscreen_binding_chc_toggle_window =             "Basculer la fenêtre Craft Helper"
     UI_optionscreen_binding_chc_toggle_uses_craft =         "Basculer entre les utilisations/artisanat"
     UI_optionscreen_binding_chc_move_tab_left =             "Sélectionner l'onglet précédent"
-    UI_optionscreen_binding_chc_move_tab_right =            "Sélectionnez l'onglet suivant"
+    UI_optionscreen_binding_chc_move_tab_right =            "Sélectionner l'onglet suivant"
     UI_optionscreen_binding_chc_toggle_focus_search_bar =   "Barre de recherche Ciblage"
 
     UI_infotext_search =    "<CENTRE><SIZE:medium> Écran de recherche <LINE><LINE> "..
@@ -72,7 +72,7 @@ UI_FR = {
                                  " - Où trouver cet élément (WIP)"
 
     -- %3
-    UI_infotext_recipe_mouse = " - Cliquez avec le bouton gauche sur l'icône étoile (colonne Recette, passer la souris sur l'élément) pour mettre la recette dans les favoris (ou le retirer) <LINE> "..
+    UI_infotext_recipe_mouse = " - Cliquer avec le bouton gauche sur l'icône étoile (colonne Recette, passer la souris sur l'élément) pour mettre la recette dans les favoris (ou le retirer) <LINE> "..
                                " - Faites un clic droit sur l'icône du résultat de la recette (colonne Détails) pour ouvrir le menu contextuel <LINE> "..
                                " - Faites un clic droit sur l'élément dans 'Éléments requis' (colonne Détails) pour ouvrir le menu contextuel."
     UI_infotext_item_mouse =   " - Clic molette de la souris sur l'élément (colonne Recette) pour ouvrir un nouvel onglet avec l'élément cliqué en arrière-plan <LINE>"..
