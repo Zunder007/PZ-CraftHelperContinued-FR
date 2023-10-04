@@ -68,36 +68,4 @@ IGUI_FR = {
     IGUI_Evolved_Random = "Aléatoire",
     IGUI_Evolved_SelectSpecific = "Sélectionnez spécifique",
     IGUI_AllOf = "Tous:",
-
-	IGUI_VehicleNamePickUpVanBurnt = "",
-	IGUI_VehicleNamePickUpVanLightsBurnt = "",
-
-	IGUI_VehicleNameVanBurnt = "",
-	IGUI_VehicleNameVanRadioBurnt = "",
-	IGUI_VehicleNameVanSeatsBurnt = "",
-
-	IGUI_VehicleNameSportsCar_ez = "",
-	IGUI_VehicleNameSportsCarBurnt = "",
-
-	IGUI_VehicleNameSmallCarBurnt = "",
-	IGUI_VehicleNameSmallCar02Burnt = "",
-
-	IGUI_VehicleNameCarNormalBurnt = "",
-	IGUI_VehicleNameModernCar_Martin = "",
-
-	IGUI_VehicleNameModernCar_ez = "",
-	IGUI_VehicleNameModernCarBurnt = "",
-	IGUI_VehicleNameModernCarSmashedFront = "",
-	IGUI_VehicleNameModernCarSmashedRear = "",
-	IGUI_VehicleNameModernCarSmashedLeft = "",
-	IGUI_VehicleNameModernCarSmashedRight = "",
-
-	IGUI_VehicleNameModernCar02Burnt = "",
-	IGUI_VehicleNameModernCar02SmashedFront = "",
-	IGUI_VehicleNameModernCar02SmashedRear = "",
-	IGUI_VehicleNameModernCar02SmashedLeft = "",
-	IGUI_VehicleNameModernCar02SmashedRight = "",
-
-	IGUI_VehicleNameSUVBurnt = "",
-	IGUI_VehicleNameOffRoadBurnt = "",
 }
